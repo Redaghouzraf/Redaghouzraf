@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Redaghouzraf
-- 👀 I’m interested in cyber securite
-- 🌱 I’m currently learning language c
+- 👀 I’m interested in cyber security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me redaghouzaf@gmail.com
 
